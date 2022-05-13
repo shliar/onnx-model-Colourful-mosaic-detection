@@ -1,0 +1,4 @@
+best_model/model.pdparams filter=lfs diff=lfs merge=lfs -text
+best_model/model.pdopt filter=lfs diff=lfs merge=lfs -text
+inference_model/new/inference_model/model.pdiparams filter=lfs diff=lfs merge=lfs -text
+inference_model/new/inference_model/model.onnx filter=lfs diff=lfs merge=lfs -text
